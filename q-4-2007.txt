@@ -1,0 +1,104 @@
+q-4-2007
+
+#1: Title
+
+This is Question #4 from the 2007 EA basic exam. 
+This one belongs to the [->] life contingencies topic
+
+[->]
+
+#2: Question sheet + Key items
+
+	Here you may read the question, so lets take a few minutes to do the calculations...
+
+        (Wait for people to do exercise)
+
+	(upon resuming...)	
+		
+        [->] So...
+
+#2.5 (button appears)
+
+	The most important things to extract after reading the question are these items...
+
+	[->]
+
+	the 1/1/2007 origin of time and the "commencing on 1/1/2007" so that we are talking about an annuity due
+
+	age 60 is critical to the calculation
+
+	and the lives curve, which one should immediately recognize as a D'Moivre.
+
+	Notice carefully that the domain gives the terminal age parameter for the calculations.
+
+	[close][->] 
+
+#3: Cashflows diagrams for Y & Z
+
+	For annuity #1 we have level payments of 1000 at the begining of each year while alive.
+
+	The present value, thus, would be the sum of these terms, times 1000.
+
+	So, this would be the expression for the factor in this mortality model.
+
+	(wait the next annuity title)
+
+	For annuity #2 we get the expected payment by calculating this expression times 15000.
+
+	This is a pure endowment and this is its formal symbol.
+
+	So, this would be the expression for the factor in this mortality model.
+
+	[->] 
+
+#4: Brief Explanation of D'Moivre model
+
+	Lets quickly review the basic functions for this model.
+
+	[->]
+
+	D'Moivre is defined by a Uniform Distribution on a finite interval.
+
+	So this is the form for such densities.
+	
+	[->]
+
+	By integration of the density, we get its (Cumulative) distribution function, shown here.
+
+	[->]
+
+	 The survival function is given by subtracting F from 1...
+
+	[->]
+
+	And finally, the force of mortality, is minus the derivative of S divided by S.
+
+	These relations are important to remember not just for this model.
+
+	From these functions, the tPx and tqx's follow immediately.
+
+	[->]
+
+	NOTE: it is easier to derive the annuity due in this model by 1 plus the annuity immediate, than calculating it directly.
+
+	[get ready to read from the screen]
+
+	[->]
+	
+
+#5: Derivation MP4
+
+	......
+
+#6: Calculation of Y
+
+	......
+
+#7: Calculation of Z
+
+	......
+
+#8: Answer
+
+
+wdmycloud/tex/presentations
